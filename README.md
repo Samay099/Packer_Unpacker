@@ -12,7 +12,7 @@ metadata we create all files.
 
 ## Dependencies 
 
-, make sure Java is installed
+First, make sure Java is installed
 
 Open a termainal and type:
 
