@@ -5,10 +5,10 @@
 The GUI provides functionality to pack text files of a directory and unpack them. 
 
 - In case of Packing activity we maintain one file which contains metadata and data of
-multiple files from specified directory.
+multiple files from specified a directory.
 
-- In case of Unpacking activity we extract all data from packed files and according to its
-metadata we create all files.
+- In case of Unpacking activity we extract all data from packed files and we create all files according to its
+metadata 
 
 ## Dependencies 
 
